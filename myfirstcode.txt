@@ -1,1 +1,2 @@
 This is my first code!!
+Create file -> Git bash here -> git add -> git commit -m "commmit name goes here" -> git status
