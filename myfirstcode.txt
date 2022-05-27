@@ -1,2 +1,13 @@
 This is my first code!!
+Creating the local repo:
 Create file -> Git bash here -> git add -> git commit -m "commmit name goes here" -> git status
+
+Now moving the local repo code to central repo;
+
+Copy the below command from github and paste in git bash
+
+git remote add origin "xxxxxx" - local repo integrated with central repo
+
+Now push the code to central repo
+
+git push origin master    
